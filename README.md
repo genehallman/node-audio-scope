@@ -17,8 +17,8 @@ On mac (via Homebrew):
 `brew install sox`
 
 ## Installing
-`git clone git://github.com/genehallman/node-audio-scope.git`
-`cd node-audio-scope`
+    git clone git://github.com/genehallman/node-audio-scope.git
+    cd node-audio-scope
 
 ## Running the scope
 `node scope.js`
