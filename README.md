@@ -4,11 +4,11 @@ This is a command line ascii audio oscilloscope built in nodejs. It reads from y
 
 ![example](https://raw.github.com/genehallman/node-audio-scope/master/scope.png)
 
-# Dependencies
+## Dependencies
 
 Audio scope depends on baudio which uses [SOX](http://sox.sourceforge.net/).
 
-## Install SOX
+### Install SOX
 
 On unix:
 `sudo apt-get install sox`
@@ -16,10 +16,10 @@ On unix:
 On mac (via Homebrew):
 `brew install sox`
 
-# Installing
+## Installing
 `git clone git://github.com/genehallman/node-audio-scope.git`
 `cd node-audio-scope`
 
-# Running the scope
+## Running the scope
 `node scope.js`
 
