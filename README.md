@@ -1,12 +1,12 @@
 # node-audio-scope
 
-This is an ascii audio oscilloscope.
+This is a command line ascii audio oscilloscope built in nodejs. It reads from your microphone and shows the amplitude.
 
 ![example](https://raw.github.com/genehallman/node-audio-scope/master/scope.png)
 
 # Dependencies
 
-Audio scope depends on baudio which uses SOX (http://sox.sourceforge.net/).
+Audio scope depends on baudio which uses [SOX](http://sox.sourceforge.net/).
 
 ## Install SOX
 
