@@ -21,5 +21,5 @@ On mac (via Homebrew):
     cd node-audio-scope
 
 ## Running the scope
-`node scope.js`
+    node scope.js
 
