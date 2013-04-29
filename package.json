@@ -1,0 +1,16 @@
+{
+  "name": "node-audio-scope",
+  "description": "A simple audio microphone oscilliscope",
+  "version": "0.0.1",
+	"author": "Gene Hallman <gene@livefyre.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/genehallman/node-audio-scope.git"
+  },
+  "dependencies": {
+    "baudio": "*"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  }
+}
